@@ -1,0 +1,22 @@
+# Built application files
+*.apk
+*.ap_
+*.dex
+
+# Java class files
+*.class
+
+# Gradle files
+.gradle/
+build/
+
+# Android Studio files
+.idea/
+*.iml
+*.hprof
+
+# Local configurations
+local.properties
+
+# Mac OS files
+.DS_Store
