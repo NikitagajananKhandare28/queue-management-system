@@ -1,22 +1,14 @@
-# Built application files
-*.apk
-*.ap_
-*.dex
-
-# Java class files
-*.class
-
-# Gradle files
-.gradle/
-build/
-
-# Android Studio files
-.idea/
+# Android Studio
 *.iml
 *.hprof
-
-# Local configurations
-local.properties
-
-# Mac OS files
-.DS_Store
+*.ipr
+*.iws
+/.idea/
+/.gradle/
+/build/
+/local.properties
+/.DS_Store
+*/captures/*
+**/build/
+*/build/
+*/app/build/
